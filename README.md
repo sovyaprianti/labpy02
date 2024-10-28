@@ -367,7 +367,8 @@ Jika pengguna memasukkan operator yang tidak dikenali (bukan `+, -, *, atau /`),
 
 #### Code Program 
 
-![sovyaprianti_07](https://github.com/user-attachments/assets/ca1d31fe-a3fd-47fa-b3d4-61ed63ab4fae)
+![Screenshot 2024-10-26 051738](https://github.com/user-attachments/assets/acd8c9a1-6d71-415f-87ac-8fcf7f3bd8e8)
+
 
 #### Hasil Flowchart
 
