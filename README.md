@@ -367,12 +367,13 @@ Jika pengguna memasukkan operator yang tidak dikenali (bukan `+, -, *, atau /`),
 
 #### Code Program 
 
-![Screenshot 2024-10-26 051738](https://github.com/user-attachments/assets/acd8c9a1-6d71-415f-87ac-8fcf7f3bd8e8)
+![sovyaprianti_07](https://github.com/user-attachments/assets/afdd2f58-4346-4514-a676-18a945735a6e)
 
 
 #### Hasil Flowchart
 
-![image](https://github.com/user-attachments/assets/1f51d2ba-5b08-4f4e-b64d-851531448470)
+![Screenshot 2024-10-26 051738](https://github.com/user-attachments/assets/a5e035dd-0ce4-4ce0-8b7c-461c99364180)
+
 
 # '''''''SELESAI''''''' 
 
